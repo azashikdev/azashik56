@@ -31,24 +31,17 @@ Welcome to my GitHub profile! I'm a passionate Frontend Web Developer with a str
 - **Content Management Systems**:
   - WordPress
 
-## 🌟 Projects
-
-Here are a few of my notable projects:
-
-- **[Lexdata](Link to Lexdata Project)**: A brief description of what this project is about and the technologies used.
-- **[Project Name 1](Link to Project)**: A brief description of what this project is about and the technologies used.
-- **[Project Name 2](Link to Project)**: A brief description of what this project is about and the technologies used.
 
 Feel free to check out my repositories for more examples of my work!
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=azashikdev&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
 
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
 - [Twitter](https://twitter.com/your-twitter-profile)
-- [Portfolio](Your Portfolio URL)
+- [Portfolio]
 
 Thank you for visiting my GitHub profile! Feel free to reach out if you have any questions or just want to connect.
